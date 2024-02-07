@@ -1,0 +1,1 @@
+[Somfy RTS project](https://community.home-assistant.io/t/esp-somfy-rts-integration/543401)
