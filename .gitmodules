@@ -1,0 +1,3 @@
+[submodule "ESPSomfy-RTS-HA"]
+	path = ESPSomfy-RTS-HA
+	url = git@github.com:rstrouse/ESPSomfy-RTS-HA.git
