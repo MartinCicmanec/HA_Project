@@ -7,3 +7,6 @@ docker compose up -d
 ```
 
 [http://127.0.0.1:8123](http://127.0.0.1:8123)
+
+## ESP8266
+Setup [arduino IDE](https://randomnerdtutorials.com/getting-started-with-esp8266-wifi-transceiver-review/) or use VSCode extension [PlatformIO](https://randomnerdtutorials.com/vs-code-platformio-ide-esp32-esp8266-arduino/).
