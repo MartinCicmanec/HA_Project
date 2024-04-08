@@ -10,3 +10,6 @@ docker compose up -d
 
 ## ESP8266
 Setup [arduino IDE](https://randomnerdtutorials.com/getting-started-with-esp8266-wifi-transceiver-review/) or use VSCode extension [PlatformIO](https://randomnerdtutorials.com/vs-code-platformio-ide-esp32-esp8266-arduino/).
+
+## My RF module
+[link](https://www.tme.com/us/en-us/details/rfm12b-433dp/rf-modules/hope-microelectronics/)
