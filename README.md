@@ -13,3 +13,9 @@ Setup [arduino IDE](https://randomnerdtutorials.com/getting-started-with-esp8266
 
 ## My RF module
 [link](https://www.tme.com/us/en-us/details/rfm12b-433dp/rf-modules/hope-microelectronics/)
+
+
+## ESP32-C6-VROOM1
+The getting started [guide](https://docs.espressif.com/projects/esp-idf/en/latest/esp32c6/get-started/index.html)  
+VsCode [extension](https://github.com/espressif/vscode-esp-idf-extension/blob/master/docs/tutorial/install.md)  
+Mys specific [devkit](https://docs.espressif.com/projects/espressif-esp-dev-kits/en/latest/esp32c6/esp32-c6-devkitc-1/user_guide.html#hardware-reference) reference materials.  
