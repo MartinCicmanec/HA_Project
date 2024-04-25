@@ -17,5 +17,7 @@ Setup [arduino IDE](https://randomnerdtutorials.com/getting-started-with-esp8266
 
 ## ESP32-C6-VROOM1
 The getting started [guide](https://docs.espressif.com/projects/esp-idf/en/latest/esp32c6/get-started/index.html)  
+ESP-IDF Tool install [guide](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/windows-setup.html)
 VsCode [extension](https://github.com/espressif/vscode-esp-idf-extension/blob/master/docs/tutorial/install.md)  
+[use](https://github.com/espressif/vscode-esp-idf-extension/blob/master/docs/tutorial/basic_use.md)  
 Mys specific [devkit](https://docs.espressif.com/projects/espressif-esp-dev-kits/en/latest/esp32c6/esp32-c6-devkitc-1/user_guide.html#hardware-reference) reference materials.  
