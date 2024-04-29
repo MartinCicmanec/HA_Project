@@ -14,6 +14,13 @@ Setup [arduino IDE](https://randomnerdtutorials.com/getting-started-with-esp8266
 ## My RF module
 [link](https://www.tme.com/us/en-us/details/rfm12b-433dp/rf-modules/hope-microelectronics/)
 
+# Installation
+docker integration [guide](https://github.com/espressif/vscode-esp-idf-extension/blob/master/docs/tutorial/using-docker-container.md)
+
+# OTA update/upgrade
+
+OTA reference [guide](https://docs.espressif.com/projects/esp-idf/en/stable/esp32c6/api-reference/system/ota.html)
+
 
 ## ESP32-C6-VROOM1
 The getting started [guide](https://docs.espressif.com/projects/esp-idf/en/latest/esp32c6/get-started/index.html)  
